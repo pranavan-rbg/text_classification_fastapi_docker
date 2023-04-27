@@ -1,0 +1,8 @@
+fastapi
+flask
+uvicorn
+transformers
+torch
+numpy
+urllib3
+scipy
