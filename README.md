@@ -1,5 +1,7 @@
 # text_classification_fastapi_docker
 
+1. clone this repo
+2. change the working directory 
 
 Run this on Docker 
 
